@@ -1,5 +1,6 @@
-# cipher
-**A toy text encryption model using python.**
+# CIPHER
+
+## A toy text encryption model using python.
 
 Create your own Cipher:  You can choose from a variety of substitution, transposition, morse, or anything else. Cipher should have both encrypt and decrypt capabilities.
 
